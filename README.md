@@ -4,7 +4,15 @@ checkmark Animation.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is about creating animation with the [Rive application](https://rive.app/) and use that in Flutter app.
+### packages: rive: ^0.6.3
+
+- Clone the repo.
+`git clone https://github.com/dramanesd/check-mark-animation`
+- Install dependencies
+`flutter pub get`
+- And run the the app
+`flutter run`
 
 A few resources to get you started if this is your first Flutter project:
 
